@@ -1,0 +1,12 @@
+.build/
+dist/
+logs/
+snapshots/
+
+.DS_Store
+**/.DS_Store
+
+# Local configuration and credentials. Keep the checked-in examples.
+config/*.json
+!config/*.example.json
+!config/karabiner-earpods-unbind-volume.json

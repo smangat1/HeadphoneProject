@@ -1,0 +1,51 @@
+{
+  "volume_up": {
+    "notifyTitle": "EarPods",
+    "notifyBody": "Volume Up button"
+  },
+  "volume_up_double": {
+    "notifyTitle": "EarPods",
+    "notifyBody": "Volume Up double click"
+  },
+  "volume_up_triple": {
+    "notifyTitle": "EarPods",
+    "notifyBody": "Volume Up triple click"
+  },
+  "volume_down": {
+    "notifyTitle": "EarPods",
+    "notifyBody": "Volume Down button"
+  },
+  "volume_down_double": {
+    "notifyTitle": "EarPods",
+    "notifyBody": "Volume Down double click"
+  },
+  "volume_down_triple": {
+    "notifyTitle": "EarPods",
+    "notifyBody": "Volume Down triple click"
+  },
+  "volume_up_hold": {
+    "notifyTitle": "EarPods",
+    "notifyBody": "Volume Up hold"
+  },
+  "volume_down_hold": {
+    "notifyTitle": "EarPods",
+    "notifyBody": "Volume Down hold"
+  },
+  "center_single": {
+    "notifyTitle": "EarPods",
+    "notifyBody": "Center single click"
+  },
+  "center_double": {
+    "notifyTitle": "EarPods",
+    "notifyBody": "Center double click",
+    "shellCommand": "echo \"center_double $(date -u +%Y-%m-%dT%H:%M:%SZ)\" >> ./logs/actions.log"
+  },
+  "center_triple": {
+    "notifyTitle": "EarPods",
+    "notifyBody": "Center triple click"
+  },
+  "center_hold": {
+    "notifyTitle": "EarPods",
+    "notifyBody": "Center hold"
+  }
+}

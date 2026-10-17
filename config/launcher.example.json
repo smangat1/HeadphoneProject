@@ -1,0 +1,22 @@
+[
+  {
+    "id": "current-thread",
+    "title": "Current Thread",
+    "symbol": "sparkles"
+  },
+  {
+    "id": "work-queue",
+    "title": "Work Queue",
+    "symbol": "list.bullet.clipboard"
+  },
+  {
+    "id": "timer",
+    "title": "Timer",
+    "symbol": "timer"
+  },
+  {
+    "id": "now-playing",
+    "title": "Now Playing",
+    "symbol": "music.note"
+  }
+]
